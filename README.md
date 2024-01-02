@@ -1,2 +1,1 @@
-# Edubot
-AI 
+A robust HR recruitment system, featuring chatbot and website integration, streamlines profile selection. Shortlisted candidates receive direct mail, while the tool enables weekly work tracking for efficient candidate management.
